@@ -49,6 +49,7 @@ It is so easy, you can scroll down. The Mako template engine was used.
 ### 6. Then I try to print flag file using cat commmand. Voila , The hidden flag was appeared!!!!
 
 <img width="1884" height="861" alt="VirtualBox_kali-linux-2025 3-virtualbox-amd64_12_05_2026_23_36_59" src="https://github.com/user-attachments/assets/905d4e38-f780-48af-b1f4-a5cfb09cd65e" />
+
 ### Note
 
 This article was very useful and contains payloads for multiple template engines:
