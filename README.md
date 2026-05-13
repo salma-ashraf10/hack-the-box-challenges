@@ -11,7 +11,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 |---|---|---|---|
 | Flag Command | Web | Very Easy | [View Write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Flag%20Command.md) |
 | Spookifier | Web | Very Easy | [View Write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Spookifier.md) |
-
+| OpenSecret | Web | Very Easy |[View Write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/OpenSecret.md) |
 
 
 
