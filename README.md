@@ -13,7 +13,8 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | Spookifier | Web | Very Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Spookifier.md) |
 | OpenSecret | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/OpenSecret.md) |
 | Secure Notes | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/secure-notes.md)
-| Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md)
+| Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
+| Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
 
 ## Tools Frequently Used
 
