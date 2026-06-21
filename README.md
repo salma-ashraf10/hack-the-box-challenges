@@ -16,7 +16,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | SpeedNet | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/SpeedNet.md)
 | Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
 | Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
-| Sattacker | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
+| Sattrack | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
 
 ## Tools Frequently Used
 
