@@ -12,9 +12,11 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | Flag Command | Web | Very Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Flag%20Command.md) |
 | Spookifier | Web | Very Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Spookifier.md) |
 | OpenSecret | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/OpenSecret.md) |
-| Secure Notes | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/secure-notes.md)
+| Secure Notes | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/secure-notes.md)|
+| SpeedNet | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/SpeedNet.md)
 | Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
 | Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
+
 
 ## Tools Frequently Used
 
@@ -24,7 +26,6 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 - curl
 - ffuf
 - JWT generator
-
 
 
 ## Author
