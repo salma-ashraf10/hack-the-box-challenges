@@ -18,6 +18,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | CitiSmart | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/CitiSmart.md)|
 | Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
 | Sattrack | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
+| QuickBlog | Web | Hard |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/QuikBlog.md)|
 
 ## Tools Frequently Used
 
@@ -28,6 +29,8 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 - ffuf
 - JWT generator
 - Webhook
+- CyberChef
+- Docker
 
 
 ## Author
