@@ -299,7 +299,7 @@ HTB{sm4rt_cit1_but_n0t_s3cur3}
 
 #
 
-[The challenge link]()
+[The challenge link](https://app.hackthebox.com/challenges/CitiSmart?tab=play_challenge)
 
 See you in the next writeup!
  
