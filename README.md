@@ -9,9 +9,11 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 
 | Challenge Name | Category | Difficulty | Write-up |
 |---|---|---|---|
-| Flag Command | Web | Very Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Flag%20Command.md) |
-| Spookifier | Web | Very Easy | [View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Spookifier.md) |
+| Flag Command | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Flag%20Command.md) |
+| Spookifier | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Spookifier.md) |
 | OpenSecret | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/OpenSecret.md) |
+| KORP Terminal | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/KORP-Terminal.md)|
+| Gunship | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Gunship.md)|
 | Secure Notes | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/secure-notes.md)|
 | SpeedNet | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/SpeedNet.md)|
 | Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
@@ -31,6 +33,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 - Webhook
 - CyberChef
 - Docker
+- sqlmap
 
 
 ## Author
