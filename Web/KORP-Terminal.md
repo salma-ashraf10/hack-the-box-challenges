@@ -17,7 +17,7 @@ Your faction must infiltrate the KORP™ terminal and gain access to the Legiona
 ## Tools Used
 
   - Burp Suite
-  - SQLmap
+  - sqlmap
   - Hashcat
 
 
