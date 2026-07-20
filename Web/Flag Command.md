@@ -53,6 +53,6 @@ when opening it , I found the secret message.
      
 [The challenge link](https://app.hackthebox.com/challenges/Flag%2520Command?tab=play_challenge)
 
-See you in the next writeup!
+See you in the next writeup, In sha Allah!
  
 سبحانك اللهم وبحمدك لا إله إلا أنت أستغفرك وأتوب إليك
