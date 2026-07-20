@@ -18,6 +18,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | SpeedNet | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/SpeedNet.md)|
 | Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
 | CitiSmart | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/CitiSmart.md)|
+| NovaEnergy | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/NovaEnergy.md)|
 | Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
 | Sattrack | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
 | QuickBlog | Web | Hard |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/QuikBlog.md)|
@@ -43,3 +44,5 @@ Salma Ashraf [0xL0m4]
 [My HTB profile](https://app.hackthebox.com/users/2424943?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 
 [My LinkedIn profile](https://www.linkedin.com/in/salma-ashraf11/)
+
+**Don’t forget to keep Palestine in your prayers.**
