@@ -161,7 +161,7 @@ HTB{g00d_j0b_r3g1str4ti0n_byp4s5}
 
 [The challenge link](https://app.hackthebox.com/challenges/NovaEnergy?tab=play_challenge)
 
-See you in the next writeup,in sha Allah!
+See you in the next writeup, in sha Allah!
 
 سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك.
 
