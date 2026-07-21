@@ -230,6 +230,6 @@ HTB{CSP_4nd_js0np_d0nt_4lw4ys_G3t_4l0ng}
 
 [The challenge link](https://app.hackthebox.com/challenges/Alien%2520Complaint%2520Form?tab=play_challenge)
 
-See you in the next writeup!
+See you in the next writeup, In sha Allah!
  
 سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك.
