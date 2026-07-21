@@ -20,7 +20,7 @@ In "The Ransomware Dystopia," LockTalk emerges as a beacon of resistance against
 
 # Steps
 
-## 1. Exploring the application
+### 1. Exploring the application
 
 After opening the website, I downloaded the provided source code and started reviewing it.
 
@@ -30,7 +30,7 @@ The application determines the user's role from a JWT.
 
 <img width="1852" height="533" alt="image" src="https://github.com/user-attachments/assets/9a63d11c-fe49-4b8a-9cc3-a2f84729a6f1" />
 
-## 2. Finding the vulnerable JWT library
+### 2. Finding the vulnerable JWT library
 
 Inside requirements.txt I noticed:
 
@@ -54,7 +54,7 @@ So:
 - Modify its payload to change the role to administrator.
 - Use the forged token to access the flag endpoint.
 
-## 3. Finding a valid JWT
+### 3. Finding a valid JWT
 
 While reviewing the API routes, I found this endpoint:
 
@@ -85,7 +85,7 @@ Requesting it returned:
 Unauthorized
 ```
 
-## 4. Why was it forbidden?
+### 4. Why was it forbidden?
 
 I searched through the JavaScript files and found the request being made normally:
 
@@ -103,7 +103,7 @@ This suggested that the endpoint itself probably wasn't protected by the backend
 
 So I continued reviewing the infrastructure configuration.
 
-## 5. Discovering the HAProxy restriction
+### 5. Discovering the HAProxy restriction
 
 Inside the HAProxy configuration I found:
 
@@ -130,7 +130,7 @@ Searching for vulnerabilities affecting this version led me to:
 [Reference](https://www.sentinelone.com/vulnerability-database/cve-2023-45539/#cq=i1)
 
 
-## 6. Bypassing the HAProxy rule
+### 6. Bypassing the HAProxy rule
 
 The vulnerability allows bypassing certain ACL rules.
 
@@ -144,7 +144,7 @@ Yes, the server returned a valid JWT.
 
 <img width="1256" height="728" alt="image" src="https://github.com/user-attachments/assets/7d2e6b03-6c98-4961-bbfd-4ac33981bb17" />
 
-## 7. Forging an administrator token
+### 7. Forging an administrator token
 
 Using the public exploit for CVE-2022-39227, I modified the JWT payload.
 
@@ -173,7 +173,7 @@ The exploit generated a forged authorization token.
 <img width="1927" height="394" alt="image" src="https://github.com/user-attachments/assets/77e92d84-637c-4828-887a-e0b6e058e4e6" />
 
 
-## 8. Retrieving the flag
+### 8. Retrieving the flag
 
 Finally, I added the forged token in the Authorization header while requesting the flag endpoint:
 
@@ -190,7 +190,7 @@ The flag was successfully retrieved.
 <img width="1269" height="685" alt="image" src="https://github.com/user-attachments/assets/68ea6001-9f88-4d98-8a7c-61511f8ab35e" />
 
 
-## The Flag
+### The Flag
 
 ```
 HTB{h4Pr0Xy_n3v3r_D1s@pp01n4s_4t_bugg5_4nd_h4ck5}
