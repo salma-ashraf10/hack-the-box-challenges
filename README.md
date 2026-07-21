@@ -21,6 +21,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | NovaEnergy | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/NovaEnergy.md)|
 | Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
 | Sattrack | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
+| LockTalk | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/LockTalk.md)|
 | QuickBlog | Web | Hard |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/QuikBlog.md)|
 
 ## Tools Frequently Used
