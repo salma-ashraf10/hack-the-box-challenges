@@ -15,6 +15,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | KORP Terminal | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/KORP-Terminal.md)|
 | Gunship | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Gunship.md)|
 | CandyVault | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/CandyVault.md) |
+| Trapped Source | Web | Very Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Trapped-Source.md)|
 | Secure Notes | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/secure-notes.md)|
 | SpeedNet | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/SpeedNet.md)|
 | Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
