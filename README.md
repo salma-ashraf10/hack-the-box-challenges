@@ -25,6 +25,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | Sattrack | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
 | LockTalk | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/LockTalk.md)|
 | DLLAMA | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/DLLAMA.md)|
+| SerialFlow | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/SerialFlow.md)|
 | QuickBlog | Web | Hard |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/QuikBlog.md)|
 
 ## Tools Frequently Used
