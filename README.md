@@ -21,6 +21,7 @@ This repository contains detailed walkthroughs, vulnerability analysis, exploita
 | Offlinea | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Offlinea.md) |
 | CitiSmart | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/CitiSmart.md)|
 | NovaEnergy | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/NovaEnergy.md)|
+| Phonebook | Web | Easy |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Phonebook.md)|
 | Dusty Alleys | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Dusty-Alleys.md)|
 | Sattrack | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/Sattrack.md)|
 | LockTalk | Web | Medium |[View the write-up](https://github.com/salma-ashraf10/hack-the-box-challenges/blob/main/Web/LockTalk.md)|
